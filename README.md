@@ -1,5 +1,3 @@
-                                                                       **MOHAMMED ASIF**
-
 # 🚀 Blinkit Grocery Sales Data Analysis – Power BI Project
 
 ## 📌 Project Overview
